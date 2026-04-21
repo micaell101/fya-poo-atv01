@@ -1,0 +1,15 @@
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\bin\Debug\net10.0\Ex04_RPG.exe
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\bin\Debug\net10.0\Ex04_RPG.deps.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\bin\Debug\net10.0\Ex04_RPG.runtimeconfig.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\bin\Debug\net10.0\Ex04_RPG.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\bin\Debug\net10.0\Ex04_RPG.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.AssemblyInfoInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.AssemblyInfo.cs
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.csproj.CoreCompileInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.sourcelink.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\refint\Ex04_RPG.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\Ex04_RPG.genruntimeconfig.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex04_RPG\Ex04_RPG\obj\Debug\net10.0\ref\Ex04_RPG.dll

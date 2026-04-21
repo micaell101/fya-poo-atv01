@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micael\\Documents\\projetos\\exercicios\\fya-poo-atv01\\Ex02_Cofre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08EC34FF-B05F-D450-BF3A-6C4AE5DBD99D}|Ex02_Cofre\\Ex02_Cofre.csproj|c:\\users\\micael\\documents\\projetos\\exercicios\\fya-poo-atv01\\ex02_cofre\\ex02_cofre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EC34FF-B05F-D450-BF3A-6C4AE5DBD99D}|Ex02_Cofre\\Ex02_Cofre.csproj|solutionrelative:ex02_cofre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micael\\Documents\\projetos\\exercicios\\fya-poo-atv01\\Ex02_Cofre\\Ex02_Cofre\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02_Cofre\\Program.cs",
+              "ToolTip": "C:\\Users\\micael\\Documents\\projetos\\exercicios\\fya-poo-atv01\\Ex02_Cofre\\Ex02_Cofre\\Program.cs*",
+              "RelativeToolTip": "Ex02_Cofre\\Program.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:46:17.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

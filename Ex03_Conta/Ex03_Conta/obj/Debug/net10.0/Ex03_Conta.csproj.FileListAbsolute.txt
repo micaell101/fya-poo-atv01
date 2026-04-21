@@ -1,0 +1,15 @@
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\bin\Debug\net10.0\Ex03_Conta.exe
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\bin\Debug\net10.0\Ex03_Conta.deps.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\bin\Debug\net10.0\Ex03_Conta.runtimeconfig.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\bin\Debug\net10.0\Ex03_Conta.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\bin\Debug\net10.0\Ex03_Conta.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.AssemblyInfoInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.AssemblyInfo.cs
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.csproj.CoreCompileInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.sourcelink.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\refint\Ex03_Conta.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\Ex03_Conta.genruntimeconfig.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex03_Conta\Ex03_Conta\obj\Debug\net10.0\ref\Ex03_Conta.dll

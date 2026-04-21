@@ -1,0 +1,15 @@
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\bin\Debug\net10.0\Ex01_Lampada.exe
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\bin\Debug\net10.0\Ex01_Lampada.deps.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\bin\Debug\net10.0\Ex01_Lampada.runtimeconfig.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\bin\Debug\net10.0\Ex01_Lampada.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\bin\Debug\net10.0\Ex01_Lampada.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.AssemblyInfoInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.AssemblyInfo.cs
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.csproj.CoreCompileInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.sourcelink.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\refint\Ex01_Lampada.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\Ex01_Lampada.genruntimeconfig.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex01_Lampada\Ex01_Lampada\obj\Debug\net10.0\ref\Ex01_Lampada.dll

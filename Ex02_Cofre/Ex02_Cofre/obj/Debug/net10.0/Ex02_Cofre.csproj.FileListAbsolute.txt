@@ -1,0 +1,15 @@
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\bin\Debug\net10.0\Ex02_Cofre.exe
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\bin\Debug\net10.0\Ex02_Cofre.deps.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\bin\Debug\net10.0\Ex02_Cofre.runtimeconfig.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\bin\Debug\net10.0\Ex02_Cofre.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\bin\Debug\net10.0\Ex02_Cofre.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.AssemblyInfoInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.AssemblyInfo.cs
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.csproj.CoreCompileInputs.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.sourcelink.json
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\refint\Ex02_Cofre.dll
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.pdb
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\Ex02_Cofre.genruntimeconfig.cache
+C:\Users\micael\Documents\projetos\exercicios\fya-poo-atv01\Ex02_Cofre\Ex02_Cofre\obj\Debug\net10.0\ref\Ex02_Cofre.dll
